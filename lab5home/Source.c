@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 #include <locale.h>
 #include <math.h>
-#define M_PI 3.14159265358979323846
+
 int main()
 {
 	setlocale(LC_CTYPE, "UTF-8");
